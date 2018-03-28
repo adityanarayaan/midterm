@@ -14,6 +14,7 @@
                         <li role="presentation" class="active"><a href="#">Home</a></li>
                         <li role="presentation"><a href="#">Product</a></li>
                         <li role="presentation"><a href="#">Contact</a></li>
+                        <li role="presentation"><a href="#">About</a></li>
                     </ul>
                 </div>
 
