@@ -15,11 +15,11 @@ class InsertTest extends TestCase
      * @return void
      */
     public function testExample()
-    {
-        $user=new User();
-        $user->name='dhvkhd';
-        $user->email='sjhdcjds@njit.edu';
-        $user->password='cjchsvdksret';
-        $this->assertTrue($user->save());
+    {   $user=new User();
+        $user->name='dwayne';
+        $user->email='dw@njit.edu';
+        $user->password='djfbshdfbshd';
+        //$this->assertTrue($user->save);
+        $this->assertTrue($user=!NULL);
     }
 }
